@@ -32,6 +32,10 @@
     <property name="text">
      <string>Open Chart in Browser</string>
     </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>C:/Users/ADMIN/Downloads/1564520_code_open_password_icon.png</normaloff>C:/Users/ADMIN/Downloads/1564520_code_open_password_icon.png</iconset>
+    </property>
    </widget>
    <widget class="QLabel" name="label">
     <property name="geometry">
@@ -104,6 +108,10 @@
     </property>
     <property name="text">
      <string>Save chart to HTML File</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>C:/Users/ADMIN/Downloads/1564526_add_arrow_download_save_guardar_icon.png</normaloff>C:/Users/ADMIN/Downloads/1564526_add_arrow_download_save_guardar_icon.png</iconset>
     </property>
    </widget>
   </widget>
