@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.express as px
 import webbrowser
 
-from plus.MainWindow import Ui_MainWindow
+from bonus_midterm_K234111390.MainWindow import Ui_MainWindow
 
 
 class MainWindowEx(QtWidgets.QMainWindow, Ui_MainWindow):
